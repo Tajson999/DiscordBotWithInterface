@@ -1,0 +1,12 @@
+python 3.6
+
+use pip to install:
+discord.py
+pafy
+youtube_dl
+PyNaCl
+pillow
+
+need to install ffmpeg
+for win could go to:
+https://ffmpeg.zeranoe.com/builds/
