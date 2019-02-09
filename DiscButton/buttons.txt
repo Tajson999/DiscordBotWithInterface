@@ -1,0 +1,33 @@
+#{name}|{url}
+#ex
+#battle|https://www.youtube.com/watch?v=w0sUw735gRw
+#or
+#battle|dnd battle
+Calm|https://www.youtube.com/watch?v=Yd63WclGBao&t
+Calm 2|https://www.youtube.com/watch?v=azJKYZZOWko
+City|https://www.youtube.com/watch?v=I6y25Idmu-4
+City 2|https://www.youtube.com/watch?v=0oLgwF0lXdo
+Town|https://www.youtube.com/watch?v=-LGg2Z8B91w
+Mystery|https://www.youtube.com/watch?v=9fd0akX-GTI
+Exotic|https://www.youtube.com/watch?v=KM6Ho11r3nk
+Dgn|https://www.youtube.com/watch?v=VKAlj9oKFBk
+Dgn 2|https://www.youtube.com/watch?v=mIbedv57xK0
+Dgn 3|https://www.youtube.com/watch?v=mwaSnzf1xd4
+Triumph|https://www.youtube.com/watch?v=r2FC7uv_6D4
+Inn|https://www.youtube.com/watch?v=78_nbBuAbLg
+Inn Fight|https://www.youtube.com/watch?v=-QxXyvQSom8
+Sad|https://www.youtube.com/watch?v=Pp7lDd8PTg0
+Sad 2|https://www.youtube.com/watch?v=F3fl-t2sirU
+Epic|https://www.youtube.com/watch?v=YvCtUKno5Q0
+Fight|https://www.youtube.com/watch?v=tE2N-5bRGEQ
+Dark fight|https://www.youtube.com/watch?v=NApmZ5-C7uY
+Cello Fight|https://www.youtube.com/watch?v=OWD_JSBrv3Y&t
+Cello Fight 2|https://www.youtube.com/watch?v=SUNzBNJUKyo
+Flute Fight|https://www.youtube.com/watch?v=j8WMMmm5eCo
+Lute fight|https://www.youtube.com/watch?v=G-aZfUK1yCk
+Stress|https://www.youtube.com/watch?v=F1DLmPtn9MA
+Pirate|https://www.youtube.com/watch?v=5Qwbs9OsP2M
+Boss|https://www.youtube.com/watch?v=tIXUv3CREj8
+Boss 2|https://www.youtube.com/watch?v=M4Huzsp2wx8
+test|dnd music
+test30|https://www.youtube.com/watch?v=FUiu-cdu6mA
