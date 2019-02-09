@@ -3,10 +3,15 @@ Simple music playing discord bot with a interface for easy pausing, playing and 
 
 requirements:
 use pip to install:
+
 discord.py
+
 pafy
+
 youtube_dl
+
 PyNaCl
+
 pillow
 
 Also install ffmpeg for windows go to https://ffmpeg.zeranoe.com/builds/ to download a pre installed build
