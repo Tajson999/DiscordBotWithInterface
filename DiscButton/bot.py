@@ -8,7 +8,7 @@ import asyncio
 
 print('Do not play anything just yet')
 
-TOKEN = 'NTM5NDExNzgzNzExMTk1MTU2.DzB-hg.X9uKfzcaqN--qaZkMT0wuyAsu5s'
+TOKEN = '----------------------------------'
 client = discord.Client()
 player = 0
 link = ""
@@ -16,8 +16,8 @@ wc = 0
 exit = False
 playing = 0
 play_text = '!yt'
-chatChannelID = '540650444066652181'
-voicChannelID = '417806215045971972'
+chatChannelID = '----------------------------------''
+voicChannelID = '----------------------------------''
 replaying = 0
 
 
