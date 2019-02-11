@@ -8,6 +8,7 @@ import asyncio
 
 print('Do not play anything just yet')
 
+#add bot token here
 TOKEN = '----------------------------------'
 client = discord.Client()
 player = 0
@@ -16,8 +17,10 @@ wc = 0
 exit = False
 playing = 0
 play_text = '!yt'
-chatChannelID = '----------------------------------''
-voicChannelID = '----------------------------------''
+#add channel id for witch channel the bot should listen on 
+chatChannelID = '----------------------------------'
+#add channel id for witch channel the bot should talk in
+voicChannelID = '----------------------------------'
 replaying = 0
 
 
