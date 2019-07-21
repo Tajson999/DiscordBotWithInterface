@@ -13,7 +13,7 @@ import tkinter.font
 
 def send(message):
     # your webhook URL
-    webhookurl = "https://discordapp.com/api/webhooks/540650850675195914/IVPhcFXCc0_fGUFM_nA29mrVZ8yQxmFeizZSJJhYgUZUnb1k9QNI8vCZdOtrdpGsdQeh"
+    webhookurl = "###"
 
     # compile the form data (BOUNDARY can be anything)
     formdata = "------:::BOUNDARY:::\r\nContent-Disposition: form-data; name=\"content\"\r\n\r\n" + message + "\r\n------:::BOUNDARY:::--"
@@ -68,7 +68,10 @@ def minimize():
 #
 # fix min styling DONE
 # first row length at max DONE (added weird -7 att all row for some reason?)
-# btn pics
+# btn pics DONE
+#
+# See volume
+# numer volume
 #
 
 width = [0]
